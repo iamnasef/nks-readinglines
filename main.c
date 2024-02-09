@@ -22,7 +22,7 @@ int main (void){
         }else if(strcmp(value,"PRIVILEGE{iamnasef}")==0){
             printf("%s \n",privilege);
             break;
-        }else if(strcmp(value,"SECRET{c4n_y0u_234d_7h3_11n35}")==0){
+        }else if(strcmp(value,secretcode)==0){
             printf("%s \n",success);
             break;
         }else{
