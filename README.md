@@ -5,7 +5,7 @@
   <img src="supports/imgs/covers.png" />
 </p>
 
-<img src="supports/imgs/regarding-the-reverse-engineering.svg"/>
+<img src="supports/imgs/regarding-the-malware-analysis.svg"/>
 <img src="supports/imgs/written-in-c-language.svg"/>
 <br />
 <br />
