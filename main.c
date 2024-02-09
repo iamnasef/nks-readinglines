@@ -4,7 +4,7 @@
 
 
 int main (void){
-    char introductiton[]= "[X] hahahaha I will keep spreading, till you enter the secret code or you give up by typing (giveup)";
+    char introductiton[]= "[X] hahahaha I will keep spreading, till you enter the secret code or you can give up by typing (giveup)";
     char fail[] = "[X] hahahahahaha I told you, I will keep spreading !";
     char success[] = "[X] grgrgrgrgrgrg You stopped me from spreading this time, but you won't next time";
     char privilege [] = "[X] grgrgrgrgrgrg I will stop spreading because you are nasef's friend";
