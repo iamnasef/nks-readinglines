@@ -5,8 +5,8 @@
   <img src="supports/imgs/covers.png" />
 </p>
 
-<img src="supports/imgs/regarding-the-reverse-engineering"/>
-<img src="supports/imgs/written-in-c-language"/>
+<img src="supports/imgs/regarding-the-reverse-engineering.svg"/>
+<img src="supports/imgs/written-in-c-language.svg"/>
 <br />
 <br />
 Nasef's Keep Spreading #1 (Reading Lines) is a reverse engineering security challenge and vulnerable machine.
